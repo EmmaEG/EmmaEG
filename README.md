@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Emmanuel
 
 ### SO:
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=white&logoWidth=40)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ### Lenguages de Programación:
