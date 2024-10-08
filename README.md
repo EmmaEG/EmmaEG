@@ -2,7 +2,7 @@
 
 ### SO:
 <div style="display: flex; flex-wrap: wrap;">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" width="100" height="35" style="margin-right: 10px;"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" width="100" height="35" style="margin-right: 15px;"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows" width="100" height="35" />
 </div>
 
