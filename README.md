@@ -7,7 +7,7 @@
 <br><br>
 ## Sobre mi
 
-- Fontend developer
+- FrontEnd developer
 - Actualmente trabajo para Galeno by Epidata
 - Motivado siempre por investigar, crear y aprender.
 
