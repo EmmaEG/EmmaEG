@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola, Soy Emmanuel Granara</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&pause=100&color=3D2EF7&background=655E6E00&center=true&vCenter=true&width=440&height=70&lines=Bienvenido+a+mi+Perfil+!!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&pause=100&color=004691&background=655E6E00&center=true&vCenter=true&width=440&height=70&lines=Bienvenido+a+mi+Perfil+!!" alt="Typing SVG" /></a>
 </p>
 
 <br><br>
