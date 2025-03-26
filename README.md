@@ -8,7 +8,7 @@
 ## Sobre mi
 
 - FrontEnd developer
-- Actualmente trabajo para Galeno by Epidata
+- Actualmente trabajo para Banco Galicia by Cedeira.
 - Motivado siempre por investigar, crear y aprender.
 
 <br><br>
