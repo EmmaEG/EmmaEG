@@ -30,6 +30,7 @@
 
 ### Tecnologías Móvil:
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ### Librerías UI:
 ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=flat&logo=mui&logoColor=white)
@@ -41,6 +42,8 @@
 ### Gestores de Estado:
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-%23CBAF57.svg?style=flat&logo=vue.js&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-0277BD?style=flat&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-0D47A1?style=flat&logo=flutter&logoColor=white)
 
 ### Tecnologías Backend:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
