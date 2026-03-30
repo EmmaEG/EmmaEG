@@ -7,7 +7,7 @@
 <br><br>
 ## Sobre mi
 
-- Software Developer - Strongest Frontend
+- Software Developer - Frontend expert
 - Actualmente trabajo para Banco Galicia by Cedeira.
 - Motivado siempre por investigar, crear y aprender.
 
